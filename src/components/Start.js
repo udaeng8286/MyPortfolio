@@ -128,6 +128,7 @@ const Text = styled.div`
   align-items: center;
   font-size: 56px;
   margin-bottom: 32px;
+  user-select: none;
 `;
 
 const Button = styled.button`
