@@ -1,12 +1,13 @@
 import React from "react";
-import Start from "../components/Start";
 import Header from "../components/Header";
+// import Start from "../components/Start";
+
 import styled from "styled-components";
 const MainPage = () => {
   return (
     <Container>
       <Header />
-      <Start />
+      {/* <Start /> */}
     </Container>
   );
 };
