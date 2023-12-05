@@ -17,13 +17,13 @@ const Header = () => {
 export default Header;
 
 const Container = styled.div`
-  height: 56px; /* 화면 전체 높이를 채우도록 설정 */
+  height: 56px;
   width: 100%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: #fff; /* 배경색 흰색으로 변경 */
-  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1); /* 그림자 추가 */
+  background-color: #fff;
+  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
   padding-left: 20px;
   padding-right: 20px;
 `;
@@ -33,13 +33,11 @@ const Logo = styled.div`
   color: black;
   font-size: 28px;
   font-weight: bold;
-  /* padding-left: 16px; */
   align-items: center;
 `;
 
 const Nav = styled.div`
   display: flex;
-  /* justify-content: center; */
   justify-content: space-between;
 `;
 
@@ -47,6 +45,6 @@ const Button = styled.button`
   color: black;
   font-size: 20px;
   background-color: transparent;
-  border: none; /* 테두리 없애기 */
-  margin: 0 10px; /* 버튼 사이 간격 추가 */
+  border: none;
+  margin: 0 10px;
 `;

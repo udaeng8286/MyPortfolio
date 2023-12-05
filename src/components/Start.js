@@ -107,7 +107,7 @@ const Start = () => {
 export default Start;
 
 const Container = styled.div`
-  height: 100%; /* 화면 전체 높이를 채우도록 설정 */
+  height: 100%;
   display: flex;
   justify-content: center;
 `;
@@ -117,7 +117,7 @@ const Section = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  position: relative; /* 추가 */
+  position: relative;
 `;
 
 const Text = styled.div`
