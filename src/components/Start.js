@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";

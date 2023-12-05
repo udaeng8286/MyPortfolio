@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 
 const Header = () => {
@@ -17,7 +16,7 @@ const Header = () => {
 export default Header;
 
 const Container = styled.div`
-  height: 56px;
+  height: 60px;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -31,7 +30,7 @@ const Container = styled.div`
 const Logo = styled.div`
   display: flex;
   color: black;
-  font-size: 28px;
+  font-size: 32px;
   font-weight: bold;
   align-items: center;
 `;

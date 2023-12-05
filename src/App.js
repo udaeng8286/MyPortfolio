@@ -1,6 +1,6 @@
 import "./App.css";
 import styled, { createGlobalStyle } from "styled-components";
-import MainPage from "./page/MainPage";
+import MainPage from "./page/mainPage";
 function App() {
   return (
     <>
