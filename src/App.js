@@ -24,7 +24,6 @@ const GlobalStyles = createGlobalStyle`
 const Body = styled.body`
   width: 100vw;
   height: 100vh;
-  background-color: pink;
 `;
 
 export default App;
