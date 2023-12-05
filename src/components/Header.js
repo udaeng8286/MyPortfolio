@@ -22,9 +22,11 @@ const Container = styled.div`
   flex-direction: row;
   justify-content: space-between;
   background-color: #fff;
-  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
-  padding-left: 20px;
-  padding-right: 20px;
+  box-shadow: 0px 4px 16px gray;
+  padding: 4px 20px 4px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 `;
 
 const Logo = styled.div`
