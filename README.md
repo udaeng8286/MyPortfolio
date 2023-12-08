@@ -1,2 +1,2 @@
 ##개요
-1. 프로젝티 명 : MyPortfolio
+1. 프로젝트 명 : MyPortfolio
