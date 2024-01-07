@@ -1,5 +1,5 @@
-# My Portfolio
-My Portfolio는 개인 포트폴리오 웹페이지로, React를 사용하여 개발되었습니다.
+# 개요
+1. 한줄 설명: My Portfolio는 개인 포트폴리오 웹페이지로, React를 사용하여 개발되었습니다.
 
 ## 주요 기능
 
